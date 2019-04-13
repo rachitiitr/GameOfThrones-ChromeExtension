@@ -11,7 +11,8 @@ I am not an expert with Google Chrome Development and this is my first extension
 # Features
 - Searches entire web page and replaces Spoilers with text `[TEXT BLOCKED: SPOILER DETECTED]`
 - Blurs the Images which are relevant and might reveal the Spoiler information.
-- If there is any bug, it's a feature.
+- If there is any bug, it's a feature. 
+- **Open Source**: On serious note, if there's an issue, please log it and also raise a PR if you can fix it.
 
 # How To Use?
 - Clone this repository or download as a zip file
