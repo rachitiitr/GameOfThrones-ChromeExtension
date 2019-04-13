@@ -1,4 +1,4 @@
-# GoT: Hide That Spoiler - Chrome Extension <img src="icon-stark.png" alt="drawing" width="64"/>
+# GoT: Hide That Spoiler - Chrome Extension <img src="icon-stark.png" alt="🐺" width="64"/>
 
 This extension will save you from reading any Game Of Thrones Spoilers as well as visual images. <br/>
 
@@ -24,7 +24,7 @@ I am not an expert with Google Chrome Development and this is my first extension
 - Go to `chrome://extensions`
 - Click on `Load Unpacked` which you can see in the top left side.
 - Select the path where you cloned/downloaded this project.
-- An icon <img src="icon-stark.png" alt="drawing" width="64"/> should appear besides your Chrome Search bar.
+- An icon <img src="icon-stark.png" alt="🐺" width="64"/> should appear besides your Chrome Search bar.
 - That's all :D Try opening any [Game of Thrones Spoiler](https://www.google.com/search?ei=ubSxXMO5HY7Y0wKQ8J-ICQ&q=game+of+thrones+spoilers+list&oq=game+of+thrones+spoilers+list&gs_l=psy-ab.3...1044.1447..1643...0.0..0.175.802.0j5......0....1..gws-wiz.dqbPZYkKiHY) page to enjoy the blocking power.
 
 # YouTube Video
