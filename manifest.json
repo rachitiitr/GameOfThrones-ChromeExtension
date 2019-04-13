@@ -1,0 +1,16 @@
+{
+  "manifest_version": 2,
+
+  "name": "Hide GoT Spoilers",
+  "description": "Trying to save you from Game Of Thrones Spoiler.",
+  "version": "1.2",
+  "icons": { 
+          "96": "icon-stark.png" },
+  "content_scripts": [
+    {
+      "matches": ["http://*/*", "https://*/*"],
+      "js": ["jquery-3.4.0.min.js", "hide-spoiler.js"],
+      "run_at": "document_end"
+    }
+  ]
+}
