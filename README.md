@@ -1,4 +1,4 @@
-# GameOfThrones-ChromeExtension <img src="icon-stark.png" alt="drawing" width="64"/>
+# GoT: Hide That Spoiler - Chrome Extension <img src="icon-stark.png" alt="drawing" width="64"/>
 
 This extension will save you from reading any Game Of Thrones Spoilers as well as visual images. <br/>
 
