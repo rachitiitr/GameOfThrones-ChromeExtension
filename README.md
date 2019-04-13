@@ -8,7 +8,7 @@ This extension is developed by **Rachit**, a Software Engineer who is making wor
 
 I am not an expert with Google Chrome Development and this is my first extension made ever. 
 
-<img src="how-it-works.png" alt="drawing" width="200"/>
+<img src="how-it-works.png" alt="drawing" width="450"/>
 
 # Features
 - Searches entire web page and replaces Spoilers with text `[TEXT BLOCKED: SPOILER DETECTED]`
