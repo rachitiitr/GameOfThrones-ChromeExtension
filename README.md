@@ -11,9 +11,8 @@ I am not an expert with Google Chrome Development and this is my first extension
 <img src="how-it-works.png" alt="drawing" width="450"/> 
 
 # Features
-- Searches entire web page and replaces Spoilers with text `[TEXT BLOCKED: SPOILER DETECTED]`
-- Blurs the Images which are relevant and might reveal the Spoiler information.
-- If there is any bug, it's a feature. 
+- **Spoiler Blocking**: Searches entire web page and replaces Spoilers with text `##[TEXT BLOCKED: SPOILER DETECTED]`
+- **Image Blurring**: Blurs the neighbouring Images which are relevant and might reveal the Spoiler information.
 - **Open Source**: On serious note, if there's an issue, please log it and also raise a PR if you can fix it.
 
 # How To Use?
