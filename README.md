@@ -8,6 +8,8 @@ This extension is developed by **Rachit**, a Software Engineer who is making wor
 
 I am not an expert with Google Chrome Development and this is my first extension made ever. 
 
+![How it works in action?](how-it-works.png)
+
 # Features
 - Searches entire web page and replaces Spoilers with text `[TEXT BLOCKED: SPOILER DETECTED]`
 - Blurs the Images which are relevant and might reveal the Spoiler information.
