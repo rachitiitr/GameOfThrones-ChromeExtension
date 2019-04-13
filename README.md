@@ -4,7 +4,7 @@ This extension will save you from reading any Game Of Thrones Spoilers as well a
 
 This extension is developed by **Rachit**, a Software Engineer who is making world a better place by uploading videos on YouTube about his career choices, cool web projects, programming, data structures, algorithms, and more!  <br/>
 
-> ## Never estimate the power of a Frustrated Software Developer
+> ## Never Under Estimate the power of a Frustrated Software Developer
 
 I am not an expert with Google Chrome Development and this is my first extension made ever. 
 
