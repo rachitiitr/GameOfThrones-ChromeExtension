@@ -15,12 +15,12 @@ I am not an expert with Google Chrome Development and this is my first extension
 - **Spoiler Blocking**: Searches entire web page and replaces Spoilers with text `##[TEXT BLOCKED: SPOILER DETECTED]`
 - **Image Blurring**: Blurs the neighbouring Images which are relevant and might reveal the Spoiler information.
 - **Simple, BugLess and Easy**: If there's a bug, it's a feature.
-- **Open Source**: On serious note, if there's an issue, please log it and also raise a PR if you can fix it.
+- **Open Source**: One serious note, if there's an issue, please log it and also raise a PR if you can fix it.
 - **Customizable**: As you have the source code, you can customize it as per your needs ;) 
 
 # How To Use?
 - Clone this repository or download as a zip file
-- Incase you downloaded as a zip, unzip it
+- In case you downloaded as a zip, unzip it
 - Open Google Chrome
 - Go to `chrome://extensions`
 - Click on `Load Unpacked` which you can see in the top left side.
@@ -35,5 +35,5 @@ When I created this extension, its purpose was:
 - To learn how to creat kick-ass Chrome Extensions
 
 # Can I contribute?
-Ofcourse! I will be shocked to see a notification saying `User {xyz} created a Pull Request.` <br/>
+Of course! I will be shocked to see a notification saying `User {xyz} created a Pull Request.` <br/>
 I promise to approve the PR first, and only then review it.
