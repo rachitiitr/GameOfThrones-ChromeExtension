@@ -5,7 +5,7 @@
   "description": "Trying to save you from Spoilers.",
   "version": "1.2",
   "icons": { 
-          "96": "icon-stark.png" },
+          "96": "" },
   "content_scripts": [
     {
       "matches": ["http://*/*", "https://*/*"],
