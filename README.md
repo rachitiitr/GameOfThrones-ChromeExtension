@@ -1,7 +1,7 @@
 [![demo](https://img.shields.io/badge/view%20demo-youtube-orange.svg?style=for-the-badge&logo=appveyor)](https://www.youtube.com/watch?v=GzWeRfytGpE) 
-# :sparkles: GoT: Hide That Spoiler - Chrome Extension <img src="icon-stark.png" alt="🐺" width="64"/>
+# :sparkles: Avengers Endgame: Hide That Spoiler - Chrome Extension <img src="icon-stark.png" alt="🐺" width="64"/>
 
-This extension will save you from reading any Game Of Thrones Spoilers as well as visual images. <br/>
+This extension will save you from reading any Avengers Endgame Spoilers as well as visual images. <br/>
 
 This extension is developed by **Rachit**, a Software Engineer who is making world a better place by uploading videos on YouTube about his career choices, cool web projects, programming, data structures, algorithms, and more!  <br/>
 
@@ -26,11 +26,11 @@ I am not an expert with Google Chrome Development and this is my first extension
 - Click on `Load Unpacked` which you can see in the top left side.
 - Select the path where you cloned/downloaded this project.
 - An icon <img src="icon-stark.png" alt="🐺" width="64"/> should appear besides your Chrome Search bar.
-- That's all :D Try opening any [Game of Thrones Spoiler](https://www.google.com/search?ei=ubSxXMO5HY7Y0wKQ8J-ICQ&q=game+of+thrones+spoilers+list&oq=game+of+thrones+spoilers+list&gs_l=psy-ab.3...1044.1447..1643...0.0..0.175.802.0j5......0....1..gws-wiz.dqbPZYkKiHY) page to enjoy the blocking power.
+- That's all :D Try opening any [Avengers Endgame Spoiler](https://www.google.com/search?ei=ubSxXMO5HY7Y0wKQ8J-ICQ&q=game+of+thrones+spoilers+list&oq=game+of+thrones+spoilers+list&gs_l=psy-ab.3...1044.1447..1643...0.0..0.175.802.0j5......0....1..gws-wiz.dqbPZYkKiHY) page to enjoy the blocking power.
 
 # Why this Chrome Extension exists?
 When I created this extension, its purpose was: 
-- An attempt to save myself from GoT (Game of Thrones) spoilers 
+- An attempt to save myself from Avengers Endgame (Avengers Endgame) spoilers 
 - To solve the problem of spoilers as a Software Developer
 - To learn how to creat kick-ass Chrome Extensions
 

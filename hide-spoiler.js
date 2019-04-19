@@ -1,4 +1,4 @@
-kw = ['GOT', 'game of thrones', 'got spoiler', 'GoT', 'GOT Spoiler', 'Game of Thrones', 'GAME OF THRONES', 'death', 'DEAD', 'Dead', 'Died', 'DEATH', 'Death', 'DIED']
+kw = ['AVENGERS', 'avengers', 'Endgame spoiler', 'endgame', 'Avengers Engame Spoiler', 'Avengers Endgame', 'AVENGERS ENDGAME', 'death', 'DEAD', 'Dead', 'Died', 'DEATH', 'Death', 'DIED','Iron Man','Captain America','Captain Marvel','Thor','Stormbreaker','Marvel','Russo','Russo Brothers','Hulk','Professor Hulk']
 tags = "SPANEMBIULOLI";
 total = 0;
 

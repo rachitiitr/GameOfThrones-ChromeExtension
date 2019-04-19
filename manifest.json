@@ -1,8 +1,8 @@
 {
-  "manifest_version": 2,
+  "manifest_version": 3,
 
-  "name": "Hide GoT Spoilers",
-  "description": "Trying to save you from Game Of Thrones Spoiler.",
+  "name": "Hide Avengers Endgame Spoilers",
+  "description": "Trying to save you from Avengers Endgame.",
   "version": "1.2",
   "icons": { 
           "96": "icon-stark.png" },
