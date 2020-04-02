@@ -23,6 +23,7 @@ I am not an expert with Google Chrome Development and this is my first extension
 - Incase you downloaded as a zip, unzip it
 - Open Google Chrome
 - Go to `chrome://extensions`
+- Turn on the Developer mode if disabled by default.
 - Click on `Load Unpacked` which you can see in the top left side.
 - Select the path where you cloned/downloaded this project.
 - An icon <img src="icon-stark.png" alt="🐺" width="64"/> should appear besides your Chrome Search bar.
