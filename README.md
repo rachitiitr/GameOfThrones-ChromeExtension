@@ -7,7 +7,7 @@ This extension is developed by **Rachit**, a Software Engineer who is making wor
 
 > ## Never Under Estimate the power of a Frustrated Software Developer
 
-I am not an expert with Google Chrome Development and this is my first extension made ever. 
+I am not an expert with Google Chrome Development and this is my first extension made ever. I have tried my level best.
 
 <img src="how-it-works.png" alt="drawing" width="450"/> 
 
