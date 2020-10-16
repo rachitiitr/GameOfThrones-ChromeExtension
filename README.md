@@ -32,7 +32,7 @@ I am not an expert with Google Chrome Development and this is my first extension
 When I created this extension, its purpose was: 
 - An attempt to save myself from GoT (Game of Thrones) spoilers 
 - To solve the problem of spoilers as a Software Developer
-- To learn how to creat kick-ass Chrome Extensions
+- To learn how to create kick-ass Chrome Extensions
 
 # Can I contribute?
 Ofcourse! I will be shocked to see a notification saying `User {xyz} created a Pull Request.` <br/>
